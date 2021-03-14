@@ -29,7 +29,6 @@ p{
   position: relative;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 20px;
   width:40%;
 }
 
@@ -45,7 +44,7 @@ p{
   display: inline-block;
 
   width: 32%;
-  height: 50px;
+  height: auto;
   border-radius: 25px;
   border: 2px solid #0a043c;
 }
